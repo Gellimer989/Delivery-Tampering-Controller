@@ -6,5 +6,6 @@ This project is based on the realisation of a tamper controller, developed using
 and a java server that handle the communication between the two boards.
 
 ## Architetture
-
+![Architetture](/Cattura.PNG)
 ## Wirings
+![Wirings](/1Cattura.PNG)
